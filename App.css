@@ -1,0 +1,48 @@
+*{
+    background-color: rgb(78, 153, 187);
+}
+
+.wrapper{
+    width: 550px;
+    height: 380px;
+    background-color: aliceblue;
+    position: relative;
+    top: 80px;
+    left: 400px;
+    border: 1px solid blanchedalmond;
+    border-radius:15px ;
+}
+header{
+    width: 550px;
+    height: 80px;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+h1{
+    background-color: aliceblue;
+    color: rgb(78, 153, 187);
+    display: flex;
+    justify-content: center;
+}
+input{
+    border: 0px;
+    background-color: aliceblue;
+    height: 270px;
+    width: 545px;
+    text-justify:newspaper;
+    font-size: 30px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border: 1px solid rgb(95, 166, 199);
+    border-radius: 15px;
+    background-color: rgb(18, 42, 61);
+    cursor: pointer;
+    color:aliceblue;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 400px;
+    left: 230px;
+}
